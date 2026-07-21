@@ -1,0 +1,39 @@
+
+		<html>
+		<head>
+			<title>Bill Text</title>
+			<style>
+				BODY
+				{
+					text-align: center;
+					font: 18pt Verdana;
+					font-weight: bold;
+				}
+			</style>
+			
+			
+			
+				<meta name="IntroducedDate" content="June&#160;22,&#160;2026"></meta>
+				<meta name="LastActionDate" content="2026-07-02"></meta>
+				<meta name="LastAction" content="Corrective Reprint, Printer's No.  3753, July&#160;2,&#160;2026"></meta>
+				<meta name="PrimeSponsor" content="KOSIEROWSKI"></meta>
+				<meta name="SponsorBody" content="Representative"></meta>					
+				
+				
+					<meta name="HouseBill" content="1HB2649P3752"></meta>
+					<meta name="SenateBill" content="3HB2649P3752"></meta>
+				
+		</head>
+		<body>
+		
+		<br>
+		Regular Session 2025-2026 
+		<br/>
+		House Bill 2649 Printer's Number 3752
+		<br><br>
+		
+		<div style="font-size: 12pt;">Text is being revised.</div>
+		
+		</body>
+		</html>
+		
