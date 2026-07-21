@@ -14,20 +14,7 @@
       "identifier": "ocd-bill-pa-2025_2026-hb2691"
     }
   ],
-  "actions": [
-    {
-      "description": "Referred to Consumer Protection, Technology & Utilities",
-      "date": "2026-07-15T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T19:14:21Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "Joe Webster",
@@ -143,27 +130,7 @@
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Printer's No. PN3774",
-      "links": [
-        {
-          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB2691/PN3774",
-          "media_type": "application/pdf"
-        },
-        {
-          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB2691/PN3774",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB2691/PN3774",
-          "media_type": "application/msword"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
@@ -180,6 +147,6 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:22Z"
+    "logs_latest_update": "2026-07-21T21:58:25Z"
   }
 }
