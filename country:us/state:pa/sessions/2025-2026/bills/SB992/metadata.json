@@ -284,28 +284,6 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:10Z"
       }
-    },
-    {
-      "description": "Approved by the Governor",
-      "date": "2026-07-20T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "executive-signature"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T19:14:10Z"
-      }
-    },
-    {
-      "description": "Act No. 47 of 2026",
-      "date": "2026-07-20T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T19:14:10Z"
-      }
     }
   ],
   "sponsorships": [
@@ -592,6 +570,6 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:22Z"
+    "logs_latest_update": "2026-07-21T21:49:04Z"
   }
 }
