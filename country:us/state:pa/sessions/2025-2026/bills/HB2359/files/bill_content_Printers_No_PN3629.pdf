@@ -1,0 +1,39 @@
+
+		<html>
+		<head>
+			<title>Bill Text</title>
+			<style>
+				BODY
+				{
+					text-align: center;
+					font: 18pt Verdana;
+					font-weight: bold;
+				}
+			</style>
+			
+			
+			
+				<meta name="IntroducedDate" content="April&#160;6,&#160;2026"></meta>
+				<meta name="LastActionDate" content="2026-07-10"></meta>
+				<meta name="LastAction" content="Referred to FINANCE,  July&#160;10,&#160;2026"></meta>
+				<meta name="PrimeSponsor" content="CIRESI"></meta>
+				<meta name="SponsorBody" content="Representative"></meta>					
+				
+				
+					<meta name="HouseBill" content="1HB2359P3629"></meta>
+					<meta name="SenateBill" content="3HB2359P3629"></meta>
+				
+		</head>
+		<body>
+		
+		<br>
+		Regular Session 2025-2026 
+		<br/>
+		House Bill 2359 Printer's Number 3629
+		<br><br>
+		
+		<div style="font-size: 12pt;">Text is being revised.</div>
+		
+		</body>
+		</html>
+		
