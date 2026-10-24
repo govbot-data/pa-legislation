@@ -26,6 +26,54 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:11Z"
       }
+    },
+    {
+      "description": "Reported as committed",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Second consideration",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Amended on third consideration",
+      "date": "2026-10-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,10 +124,37 @@
       "primary": false,
       "person_id": "~{\"name\": \"Marty Flynn\"}",
       "organization_id": null
+    },
+    {
+      "name": "Frank Farry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frank Farry\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Printer's No. PN2002",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0330/PN2002",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0330/PN2002",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/SB0330/PN2002",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Printer's No. PN0287",
       "links": [
@@ -106,6 +181,10 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/sb330",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=31&rollcallid=1031&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -116,7 +195,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:19Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-21T23:00:40.770667Z"
   }
 }

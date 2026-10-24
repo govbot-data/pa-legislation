@@ -131,6 +131,168 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:10Z"
       }
+    },
+    {
+      "description": "Reported as amended",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Second consideration",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Re-referred to Appropriations",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Re-reported as committed",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Third consideration and final passage",
+      "date": "2026-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Referred to Rules",
+      "date": "2026-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Re-reported on concurrence, as committed",
+      "date": "2026-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "House concurred in Senate amendments",
+      "date": "2026-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Signed in House",
+      "date": "2026-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Signed in Senate",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Presented to the Governor",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Act No. 87 of 2026",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -341,10 +503,37 @@
       "primary": false,
       "person_id": "~{\"name\": \"Gina Curry\"}",
       "organization_id": null
+    },
+    {
+      "name": "Tarik Khan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tarik Khan\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Printer's No. PN4056",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB2474/PN4056",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB2474/PN4056",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB2474/PN4056",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Printer's No. PN3323",
       "links": [
@@ -365,23 +554,35 @@
       "classification": ""
     }
   ],
-  "documents": [
-    {
-      "note": "House Fiscal Note",
-      "links": [
-        {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/FN/2025/0/HB2474P3323.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "documents": [],
   "citations": [],
   "sources": [
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hb2474",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1618",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=67&rollcallid=3144&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=594",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=1167&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=39&rollcallid=1117&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=39&rollcallid=1118&sessYr=2025&sessInd=0",
       "note": ""
     },
     {
@@ -405,7 +606,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:20Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-22T00:23:48.243658Z"
   }
 }

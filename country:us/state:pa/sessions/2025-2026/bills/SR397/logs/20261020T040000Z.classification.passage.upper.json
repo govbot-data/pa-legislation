@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Adopted",
+    "occurred_at": "2026-10-20T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.palegis.us/legislation/bills/2025/sr397",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=575",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=33&rollcallid=1111&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=33&rollcallid=1112&sessYr=2025&sessInd=0",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 397"
+}

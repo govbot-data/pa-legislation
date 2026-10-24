@@ -1,0 +1,64 @@
+{
+  "action": {
+    "description": "Second consideration",
+    "occurred_at": "2026-10-20T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.palegis.us/legislation/bills/2025/hb1095",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=1157&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=39&rollcallid=1115&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=39&rollcallid=1116&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=435",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=62&rollcallid=855&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=413",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=412",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=411",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=410",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=409",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=64&rollcallid=397&sessYr=2025&sessInd=0",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1095"
+}

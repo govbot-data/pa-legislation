@@ -26,6 +26,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:13Z"
       }
+    },
+    {
+      "description": "Reported as committed",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -148,6 +172,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"David Delloso\"}",
       "organization_id": null
+    },
+    {
+      "name": "Eddie Pashinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eddie Pashinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy Shaffer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Shaffer\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -178,6 +218,14 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hr492",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1514",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=65&rollcallid=2833&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -188,7 +236,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:17Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-22T01:41:39.600047Z"
   }
 }

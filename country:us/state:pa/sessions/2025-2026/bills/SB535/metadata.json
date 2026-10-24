@@ -106,6 +106,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:16Z"
       }
+    },
+    {
+      "description": "Third consideration and final passage",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Referred to Professional Licensure",
+      "date": "2026-10-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -145,7 +170,7 @@
       "note": "Senate Fiscal Note",
       "links": [
         {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/SFN/2025/0/SB0535P0527.pdf",
+          "url": "https://www.palegis.us/WU01/LI/BI/SFN/2025/0/SB0535P0527.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -157,6 +182,10 @@
   "sources": [
     {
       "url": "https://www.palegis.us/legislation/bills/2025/sb535",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=535",
       "note": ""
     },
     {
@@ -176,7 +205,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:18Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-22T00:43:10.025929Z"
   }
 }

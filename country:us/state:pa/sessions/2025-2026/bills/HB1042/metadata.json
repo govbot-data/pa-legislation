@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 1042",
-  "title": "An Act amending Titles 18 (Crimes and Offenses), 42 (Judiciary and Judicial Procedure) and 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in authorized disposition of offenders, further providing for sentence for murder, murder of unborn child and murder of law enforcement officer and providing for sentence for murder of the second degree; in sentencing, further providing for sentences for second and subsequent offenses and for life imprisonment for homicide; in general administration, providing for earned vocational training and education credit; in motivational boot camp, further providing for definitions; and, in Pennsylvania Board of Probation and Parole, further providing for parole power and for short sentence parole, providing for parole eligibility for offenders sentenced to life for murder of the second degree and further providing for parole procedure and for victim statements, testimony and participation in hearing.",
+  "title": "An Act amending Titles 18 (Crimes and Offenses), 42 (Judiciary and Judicial Procedure), 61 (Prisons and Parole) and 63 (Professions and Occupations (State Licensed)) of the Pennsylvania Consolidated Statutes, in crimes against unborn child, further providing for the offense of murder of unborn child; in arson, criminal mischief and other property destruction, further providing for the offense of arson and related offenses; in judicial boards and commissions, further providing for adoption of guidelines for sentencing; in posttrial matters, further providing for jurisdiction and proceedings; in sentencing, providing for sentence for general murder of the second degree, further providing for sentences for second and subsequent offenses and for life imprisonment for homicide, repealing provisions relating to transfer of inmates in need of medical treatment and providing for modification of an imposed term of imprisonment for reasons of illness; in general administration, providing for earned vocational training and education credit; in Pennsylvania Board of Probation and Parole, further providing for parole power, for short sentence parole, for parole procedure and for victim statements, testimony and participation in hearing; and, in powers and duties, further providing for consideration of criminal convictions.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -264,6 +264,53 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:14Z"
       }
+    },
+    {
+      "description": "Amended in House Committee on Rules",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Re-reported on concurrence, as amended",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "House concurred in Senate amendments, as amended by the House",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Referred to Rules & Executive Nominations",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -273,14 +320,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Napoleon J. Nelson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Natalie Mihalek",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Natalie Mihalek\"}",
       "organization_id": null
     },
     {
@@ -340,14 +379,6 @@
       "organization_id": null
     },
     {
-      "name": "Chris Pielli",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Chris Pielli\"}",
-      "organization_id": null
-    },
-    {
       "name": "Emily Kinkead",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -370,10 +401,45 @@
       "primary": false,
       "person_id": "~{\"name\": \"Jennifer O'Mara\"}",
       "organization_id": null
+    },
+    {
+      "name": "Malcolm Kenyatta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Malcolm Kenyatta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andre Carroll",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andre Carroll\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Printer's No. PN3793",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1042/PN3793",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB1042/PN3793",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB1042/PN3793",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Printer's No. PN3766",
       "links": [
@@ -451,11 +517,54 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "House Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/HB1042P3793.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/HB1042P2884.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.palegis.us/WU01/LI/BI/SFN/2025/0/HB1042P3766.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hb1042",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1350",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1349",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=67&rollcallid=2758&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=67&rollcallid=2757&sessYr=2025&sessInd=0",
       "note": ""
     },
     {
@@ -511,7 +620,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:16Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-21T23:57:56.433423Z"
   }
 }

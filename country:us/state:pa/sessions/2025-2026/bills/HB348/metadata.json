@@ -181,6 +181,42 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:09Z"
       }
+    },
+    {
+      "description": "Reported as committed",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "Second consideration",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -295,6 +331,10 @@
       "note": ""
     },
     {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=33&rollcallid=1104&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
       "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=800",
       "note": ""
     },
@@ -319,7 +359,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:19Z",
+    "logs_latest_update": "2026-10-24T09:47:46Z",
     "text_extraction_latest_update": "2026-07-22T01:18:50.924950Z"
   }
 }

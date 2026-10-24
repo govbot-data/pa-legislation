@@ -71,6 +71,67 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:13Z"
       }
+    },
+    {
+      "description": "Second consideration, with amendments",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Re-committed to Appropriations",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Re-reported as committed",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Third consideration and final passage",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Referred to Institutional Sustainability & Innovation",
+      "date": "2026-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -305,10 +366,53 @@
       "primary": false,
       "person_id": "~{\"name\": \"Brian Munroe\"}",
       "organization_id": null
+    },
+    {
+      "name": "Carol Kazeem",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carol Kazeem\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tina Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tina Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave Madsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dave Madsen\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Printer's No. PN3963",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1925/PN3963",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB1925/PN3963",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB1925/PN3963",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Printer's No. PN3349",
       "links": [
@@ -348,11 +452,35 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "House Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/HB1925P3963.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hb1925",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1415",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=62&rollcallid=2914&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1386",
       "note": ""
     },
     {
@@ -376,7 +504,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:17Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-22T01:31:13.463451Z"
   }
 }

@@ -26,6 +26,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:12Z"
       }
+    },
+    {
+      "description": "Adopted",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -66,6 +78,10 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hr586",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1401",
+      "note": ""
     }
   ],
   "extras": {},
@@ -76,7 +92,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:16Z",
+    "logs_latest_update": "2026-10-24T09:47:46Z",
     "text_extraction_latest_update": "2026-07-22T01:27:41.618482Z"
   }
 }

@@ -26,6 +26,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:11Z"
       }
+    },
+    {
+      "description": "Reported as amended",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -169,6 +194,25 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Printer's No. PN2014",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB1315/PN2014",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1315/PN2014",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/SB1315/PN2014",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Printer's No. PN1736",
       "links": [
         {
@@ -194,6 +238,14 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/sb1315",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=37&rollcallid=1081&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=37&rollcallid=1082&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -204,7 +256,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:14Z",
+    "logs_latest_update": "2026-10-24T09:47:46Z",
     "text_extraction_latest_update": "2026-07-22T00:05:41.130727Z"
   }
 }

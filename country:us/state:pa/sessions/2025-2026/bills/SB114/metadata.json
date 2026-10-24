@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 114",
-  "title": "An Act amending the act of June 9, 1997 (P.L.169, No.14), known as the Nurse Aide Resident Abuse Prevention Training Act, providing for training for long-term care, for criteria for nurse aides and for limitation on department.",
+  "title": "An Act amending the act of June 9, 1997 (P.L.169, No.14), known as the Nurse Aide Resident Abuse Prevention Training Act, providing for a study on nurse aide training and oversight; and imposing duties on the Joint State Government Commission.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -133,6 +133,75 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T19:14:08Z"
+      }
+    },
+    {
+      "description": "Reported as amended",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Laid on the table",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Removed from table",
+      "date": "2026-10-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Second consideration",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Re-referred to Appropriations",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
       }
     }
   ],
@@ -285,6 +354,25 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Printer's No. PN1996",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0114/PN1996",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0114/PN1996",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/SB0114/PN1996",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Printer's No. PN0751",
       "links": [
         {
@@ -328,7 +416,7 @@
       "note": "Senate Fiscal Note",
       "links": [
         {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/SFN/2025/0/SB0114P0751.pdf",
+          "url": "https://www.palegis.us/WU01/LI/BI/SFN/2025/0/SB0114P0751.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -340,6 +428,14 @@
   "sources": [
     {
       "url": "https://www.palegis.us/legislation/bills/2025/sb114",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=34&rollcallid=2882&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=34&rollcallid=2881&sessYr=2025&sessInd=0",
       "note": ""
     },
     {
@@ -371,7 +467,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:12Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-22T00:32:25.042563Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 1667",
-  "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for exclusions from tax; in corporate net income tax, further providing for definitions, for determination of net loss deduction, for imposition of tax, for reports and payment of tax, for timely mailing treated as timely filing and payment and for additional withholding requirements, repealing provisions relating to consolidated reports, further providing for extension of time to file reports, for changes made by Federal Government, for limitations on assessments, for definitions, for manufacturing innovation and reinvestment deduction, for enforcement, rules and regulations and inquisitorial powers of the department, for retention of records and for penalties; in gross receipts tax, further providing for imposition of tax and providing for definitions; in tax credit and tax benefit administration, providing for application of tax credits or tax benefits to a unitary business; providing for educational tax credits and for education options tax credits; in manufacturing and investment tax credit, further providing for business firms and for tax credit certificates; providing for return on equity and for service and facilities; repealing provisions relating to Computer Data Center Equipment Incentive Program; providing for additional property tax rebate; in general provisions, providing for data centers; and, in general provisions, further providing for estimated tax, for underpayment of estimated tax and for restatement of tax liability under treaties and providing for data centers.",
+  "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, providing for residential clean energy tax credit; repealing provisions relating to Pennsylvania Economic Development for a Growing Economy (PA EDGE) Tax Credits; providing for Pennsylvania Economic Development for a Growing Economy (PA EDGE) Tax Credits and for energy ratepayer protection; establishing the Energy Ratepayer Protection Fund; in manufacturing and investment tax credit, further providing for tax credit certificates and providing for limitations; and making a repeal.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -256,6 +256,65 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:11Z"
       }
+    },
+    {
+      "description": "Re-committed to Rules",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Amended in House Committee on Rules",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Re-reported on concurrence, as amended",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "House concurred in Senate amendments to House amendments, as amended by the House",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Referred to Rules & Executive Nominations",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -346,10 +405,53 @@
       "primary": false,
       "person_id": "~{\"name\": \"Dave Madsen\"}",
       "organization_id": null
+    },
+    {
+      "name": "Mandy Steele",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mandy Steele\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jose Giral",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jose Giral\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Liz Hanbidge",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Liz Hanbidge\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Printer's No. PN4052",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1667/PN4052",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB1667/PN4052",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB1667/PN4052",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Printer's No. PN3745",
       "links": [
@@ -448,10 +550,14 @@
   ],
   "documents": [
     {
-      "note": "Senate Fiscal Note",
+      "note": "House Fiscal Note",
       "links": [
         {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/SFN/2025/0/HB1667P3708.pdf",
+          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/HB1667P4052.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/HB1667P2043.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -459,10 +565,10 @@
       "classification": ""
     },
     {
-      "note": "House Fiscal Note",
+      "note": "Senate Fiscal Note",
       "links": [
         {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/FN/2025/0/HB1667P2043.pdf",
+          "url": "https://www.palegis.us/WU01/LI/BI/SFN/2025/0/HB1667P3708.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -474,6 +580,18 @@
   "sources": [
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hb1667",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1537",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=67&rollcallid=3068&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=67&rollcallid=3069&sessYr=2025&sessInd=0",
       "note": ""
     },
     {
@@ -565,7 +683,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:18Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-22T00:47:55.419363Z"
   }
 }

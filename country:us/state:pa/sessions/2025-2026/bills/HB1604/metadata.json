@@ -61,6 +61,77 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:17Z"
       }
+    },
+    {
+      "description": "Removed from table",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "Second consideration",
+      "date": "2026-10-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "Re-committed to Appropriations",
+      "date": "2026-10-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "Re-reported as committed",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "Third consideration and final passage",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "Referred to Law & Justice",
+      "date": "2026-10-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -159,6 +230,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Lisa Borowski\"}",
       "organization_id": null
+    },
+    {
+      "name": "Carol Kazeem",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carol Kazeem\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -202,11 +281,35 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "House Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/HB1604P2518.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hb1604",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1460",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=62&rollcallid=2997&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1442",
       "note": ""
     },
     {
@@ -226,7 +329,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:22Z",
+    "logs_latest_update": "2026-10-24T09:47:46Z",
     "text_extraction_latest_update": "2026-07-22T00:29:05.233302Z"
   }
 }

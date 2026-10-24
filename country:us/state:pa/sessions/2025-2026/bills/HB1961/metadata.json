@@ -192,6 +192,107 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:13Z"
       }
+    },
+    {
+      "description": "Third consideration and final passage",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Referred to Rules",
+      "date": "2026-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Re-reported on concurrence, as committed",
+      "date": "2026-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "House concurred in Senate amendments",
+      "date": "2026-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Signed in House",
+      "date": "2026-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Signed in Senate",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Presented to the Governor",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Act No. 76 of 2026",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -330,6 +431,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Lisa Borowski\"}",
       "organization_id": null
+    },
+    {
+      "name": "Liz Hanbidge",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Liz Hanbidge\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jacklyn Rusnock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jacklyn Rusnock\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -394,10 +511,14 @@
   ],
   "documents": [
     {
-      "note": "Senate Fiscal Note",
+      "note": "House Fiscal Note",
       "links": [
         {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/SFN/2025/0/HB1961P2870.pdf",
+          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/HB1961P2870.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/HB1961P2551.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -405,10 +526,10 @@
       "classification": ""
     },
     {
-      "note": "House Fiscal Note",
+      "note": "Senate Fiscal Note",
       "links": [
         {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/FN/2025/0/HB1961P2551.pdf",
+          "url": "https://www.palegis.us/WU01/LI/BI/SFN/2025/0/HB1961P2870.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -420,6 +541,18 @@
   "sources": [
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hb1961",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1610",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=67&rollcallid=3113&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=570",
       "note": ""
     },
     {
@@ -459,7 +592,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:15Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-22T00:11:34.571750Z"
   }
 }

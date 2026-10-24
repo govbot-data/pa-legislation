@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 829",
-  "title": "An Act designating the Hynerpeton bassetti, a stem tetrapod, as the official State fossil of the Commonwealth of Pennsylvania; and making a repeal.",
+  "title": "An Act designating the Hynerpeton bassetti, a stem tetrapod, as the official State fossil of the Commonwealth of Pennsylvania; designating the eastern box turtle (Terrapene carolina carolina) as the official State reptile of the Commonwealth of Pennsylvania; designating Hershey's Kisses as the official State candy of the Commonwealth of Pennsylvania; and making a repeal.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -171,6 +171,77 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:12Z"
       }
+    },
+    {
+      "description": "Removed from table",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "Second consideration, with amendments",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "Re-referred to Appropriations",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "Re-reported as committed",
+      "date": "2026-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "Third consideration and final passage",
+      "date": "2026-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "Referred to Rules & Executive Nominations",
+      "date": "2026-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -202,6 +273,25 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Printer's No. PN2057",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0829/PN2057",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0829/PN2057",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/SB0829/PN2057",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Printer's No. PN0906",
       "links": [
         {
@@ -223,10 +313,21 @@
   ],
   "documents": [
     {
+      "note": "House Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/SB0829P2057.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Senate Fiscal Note",
       "links": [
         {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/SFN/2025/0/SB0829P0906.pdf",
+          "url": "https://www.palegis.us/WU01/LI/BI/SFN/2025/0/SB0829P0906.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -238,6 +339,22 @@
   "sources": [
     {
       "url": "https://www.palegis.us/legislation/bills/2025/sb829",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1588",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=62&rollcallid=3125&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1555",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1554",
       "note": ""
     },
     {
@@ -269,7 +386,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:15Z",
+    "logs_latest_update": "2026-10-24T09:47:46Z",
     "text_extraction_latest_update": "2026-07-21T23:58:55.986845Z"
   }
 }

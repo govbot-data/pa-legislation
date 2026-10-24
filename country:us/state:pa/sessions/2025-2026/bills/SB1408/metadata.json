@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 1408",
-  "title": "An Act prohibiting certain nondisclosure agreements between public agencies and data centers.",
+  "title": "An Act providing for data center transparency; prohibiting certain nondisclosure agreements between public agencies and data centers; providing for data centers and public input; prohibiting data centers from being developed or operated by certain foreign entities; and providing for enforcement by Attorney General and for energy and water reporting.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -25,6 +25,68 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T19:14:10Z"
+      }
+    },
+    {
+      "description": "Reported as amended",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Second consideration",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Re-referred to Rules & Executive Nominations",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Re-reported as amended",
+      "date": "2026-10-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
       }
     }
   ],
@@ -65,6 +127,44 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Printer's No. PN2007",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB1408/PN2007",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1408/PN2007",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/SB1408/PN2007",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Printer's No. PN1976",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB1408/PN1976",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1408/PN1976",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/SB1408/PN1976",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Printer's No. PN1891",
       "links": [
         {
@@ -90,6 +190,22 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/sb1408",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=17&rollcallid=1059&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=17&rollcallid=1060&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=5&rollcallid=1015&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=5&rollcallid=1016&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -100,7 +216,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:14Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-22T01:04:15.653740Z"
   }
 }

@@ -1,0 +1,54 @@
+{
+  "action": {
+    "description": "Signed in Senate",
+    "occurred_at": "2026-10-22T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.palegis.us/legislation/bills/2025/hb961",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=584",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=1156&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1521",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1520",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=62&rollcallid=3073&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=62&rollcallid=3072&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=11&rollcallid=1147&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=18&rollcallid=1459&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=18&rollcallid=1458&sessYr=2025&sessInd=0",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 961"
+}

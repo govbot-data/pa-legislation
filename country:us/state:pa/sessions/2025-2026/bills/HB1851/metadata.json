@@ -237,6 +237,28 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:15Z"
       }
+    },
+    {
+      "description": "Approved by the Governor",
+      "date": "2026-07-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "Act No. 34 of 2026",
+      "date": "2026-07-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -455,7 +477,7 @@
       "note": "House Fiscal Note",
       "links": [
         {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/FN/2025/0/HB1851P2716.pdf",
+          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/HB1851P2716.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -466,7 +488,7 @@
       "note": "Senate Fiscal Note",
       "links": [
         {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/SFN/2025/0/HB1851P2716.pdf",
+          "url": "https://www.palegis.us/WU01/LI/BI/SFN/2025/0/HB1851P2716.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -517,7 +539,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T21:58:25Z",
+    "logs_latest_update": "2026-10-24T09:47:46Z",
     "text_extraction_latest_update": "2026-07-21T23:13:27.772875Z"
   }
 }

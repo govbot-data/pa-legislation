@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 2123",
-  "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in jurisdiction and parties, further providing for representation; in proceedings prior to petition to adopt, further providing for home study and preplacement report; providing for adoption intermediary services and advertising; establishing the Adoption Intermediary Services Fund; and imposing penalties.",
+  "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in jurisdiction and parties, further providing for representation; in proceedings prior to petition to adopt, further providing for home study and preplacement report; providing for adoption intermediary services and advertising; imposing duties on the Office of Attorney General; and imposing penalties.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -51,6 +51,41 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T19:14:13Z"
+      }
+    },
+    {
+      "description": "Reported as amended",
+      "date": "2026-10-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "First consideration",
+      "date": "2026-10-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Laid on the table",
+      "date": "2026-10-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
       }
     }
   ],
@@ -163,6 +198,25 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Printer's No. PN4015",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB2123/PN4015",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB2123/PN4015",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB2123/PN4015",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Printer's No. PN2746",
       "links": [
         {
@@ -190,6 +244,14 @@
       "note": ""
     },
     {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=48&rollcallid=3023&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=48&rollcallid=3022&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
       "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=34&rollcallid=1667&sessYr=2025&sessInd=0",
       "note": ""
     }
@@ -202,7 +264,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:15Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-22T00:47:18.037535Z"
   }
 }

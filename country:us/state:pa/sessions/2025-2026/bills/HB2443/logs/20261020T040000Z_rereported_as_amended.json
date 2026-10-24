@@ -1,0 +1,73 @@
+{
+  "action": {
+    "description": "Re-reported as amended",
+    "occurred_at": "2026-10-20T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage",
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.palegis.us/legislation/bills/2025/hb2443",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1617",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=67&rollcallid=3143&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=595",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=593",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=1165&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=1166&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=39&rollcallid=921&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1202",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=62&rollcallid=2498&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1191",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1190",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1189",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=60&rollcallid=2115&sessYr=2025&sessInd=0",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2443"
+}

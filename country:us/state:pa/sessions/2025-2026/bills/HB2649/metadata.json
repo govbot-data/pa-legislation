@@ -108,6 +108,43 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:09Z"
       }
+    },
+    {
+      "description": "Re-reported as committed",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Third consideration and final passage",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Referred to Banking & Insurance",
+      "date": "2026-10-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -197,14 +234,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Ben Waxman\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Justin Fleming",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Justin Fleming\"}",
       "organization_id": null
     },
     {
@@ -438,6 +467,38 @@
       "primary": false,
       "person_id": "~{\"name\": \"Dave Madsen\"}",
       "organization_id": null
+    },
+    {
+      "name": "Justin Fleming",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Justin Fleming\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe Webster",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Webster\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jacklyn Rusnock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jacklyn Rusnock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keith Harris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Keith Harris\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -504,6 +565,14 @@
       "note": ""
     },
     {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1368",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=62&rollcallid=2809&sessYr=2025&sessInd=0",
+      "note": ""
+    },
+    {
       "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1314",
       "note": ""
     },
@@ -524,7 +593,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:13Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-21T23:28:22.431638Z"
   }
 }

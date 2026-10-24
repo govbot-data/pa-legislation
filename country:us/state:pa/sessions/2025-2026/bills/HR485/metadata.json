@@ -26,6 +26,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:15Z"
       }
+    },
+    {
+      "description": "Reported as committed",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -202,6 +214,10 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hr485",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=12&rollcallid=2800&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -212,7 +228,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:16Z",
+    "logs_latest_update": "2026-10-24T09:47:46Z",
     "text_extraction_latest_update": "2026-07-21T22:49:48.110941Z"
   }
 }

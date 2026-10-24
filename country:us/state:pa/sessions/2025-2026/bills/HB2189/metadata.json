@@ -152,6 +152,26 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:15Z"
       }
+    },
+    {
+      "description": "Resolution to discharge committee from further consideration of this bill dropped from calendar",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Resolution to discharge committee from further consideration of this bill presented",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -306,7 +326,7 @@
       "note": "House Fiscal Note",
       "links": [
         {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/FN/2025/0/HB2189P2845.pdf",
+          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/HB2189P2845.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -361,7 +381,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:23Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-21T23:26:04.383458Z"
   }
 }

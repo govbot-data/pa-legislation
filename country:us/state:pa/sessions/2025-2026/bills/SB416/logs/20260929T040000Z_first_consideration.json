@@ -1,0 +1,80 @@
+{
+  "action": {
+    "description": "First consideration",
+    "occurred_at": "2026-09-29T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.palegis.us/legislation/bills/2025/sb416",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=600",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=17&rollcallid=1173&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1565",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=62&rollcallid=3105&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1498",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1497",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1496",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1495",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1494",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1493",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=54&rollcallid=2830&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=54&rollcallid=2829&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=186",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=349&sessYr=2025&sessInd=0",
+        "note": ""
+      },
+      {
+        "url": "https://www.palegis.us/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=31&rollcallid=246&sessYr=2025&sessInd=0",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 416"
+}

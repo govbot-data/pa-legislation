@@ -26,6 +26,32 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:15Z"
       }
+    },
+    {
+      "description": "Reported with request to re-refer to Insurance",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "Re-referred to Insurance",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -210,6 +236,10 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hb2648",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=63&rollcallid=2822&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -220,7 +250,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:20Z",
+    "logs_latest_update": "2026-10-24T09:47:46Z",
     "text_extraction_latest_update": "2026-07-21T23:45:12.983391Z"
   }
 }

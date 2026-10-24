@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 1460",
-  "title": "An Act Providing for approval from the Department of Health and the Office of Attorney General before certain transactions involving health care entities within this Commonwealth.",
+  "title": "An Act providing for approval from the Department of Health and the Office of Attorney General before certain transactions involving health care entities within this Commonwealth.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -160,6 +160,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T19:14:10Z"
+      }
+    },
+    {
+      "description": "Laid on the table",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
+    },
+    {
+      "description": "Removed from table",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
       }
     }
   ],
@@ -505,7 +525,7 @@
       "note": "House Fiscal Note",
       "links": [
         {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/FN/2025/0/HB1460P1871.pdf",
+          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/HB1460P1871.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -572,7 +592,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:20Z",
+    "logs_latest_update": "2026-10-24T09:47:46Z",
     "text_extraction_latest_update": "2026-07-21T23:44:02.226695Z"
   }
 }

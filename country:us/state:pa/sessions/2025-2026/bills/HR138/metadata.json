@@ -26,6 +26,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:19Z"
       }
+    },
+    {
+      "description": "Reported as committed",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Adopted",
+      "date": "2026-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -244,6 +268,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"G. Roni Green\"}",
       "organization_id": null
+    },
+    {
+      "name": "Joe Webster",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Webster\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -274,6 +306,14 @@
     {
       "url": "https://www.palegis.us/legislation/bills/2025/hr138",
       "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1595",
+      "note": ""
+    },
+    {
+      "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=12&rollcallid=2973&sessYr=2025&sessInd=0",
+      "note": ""
     }
   ],
   "extras": {},
@@ -284,7 +324,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:22Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-21T23:27:30.371644Z"
   }
 }

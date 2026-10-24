@@ -241,6 +241,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:09Z"
       }
+    },
+    {
+      "description": "Removed from table",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -387,6 +397,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Tarik Khan\"}",
       "organization_id": null
+    },
+    {
+      "name": "Lindsay Powell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lindsay Powell\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -416,7 +434,7 @@
       "note": "House Fiscal Note",
       "links": [
         {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/FN/2025/0/HB0238P0190.pdf",
+          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/HB0238P0190.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -427,7 +445,7 @@
       "note": "Senate Fiscal Note",
       "links": [
         {
-          "url": "https://www.legis.state.pa.us/WU01/LI/BI/SFN/2025/0/HB0238P0190.pdf",
+          "url": "https://www.palegis.us/WU01/LI/BI/SFN/2025/0/HB0238P0190.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -470,7 +488,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:21Z",
+    "logs_latest_update": "2026-10-24T09:47:46Z",
     "text_extraction_latest_update": "2026-07-21T22:48:03.679843Z"
   }
 }

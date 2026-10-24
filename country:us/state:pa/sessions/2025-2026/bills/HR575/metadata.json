@@ -38,6 +38,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:14Z"
       }
+    },
+    {
+      "description": "Adopted",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -224,6 +236,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Steven Mentzer\"}",
       "organization_id": null
+    },
+    {
+      "name": "Joe Ciresi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Ciresi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy Shaffer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy Shaffer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carol Kazeem",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carol Kazeem\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -256,6 +292,10 @@
       "note": ""
     },
     {
+      "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=1400",
+      "note": ""
+    },
+    {
       "url": "https://www.palegis.us/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=55&rollcallid=2597&sessYr=2025&sessInd=0",
       "note": ""
     }
@@ -268,7 +308,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:19Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-22T00:11:38.590372Z"
   }
 }

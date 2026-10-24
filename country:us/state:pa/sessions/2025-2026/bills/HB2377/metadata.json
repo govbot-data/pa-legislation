@@ -63,6 +63,28 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:14:11Z"
       }
+    },
+    {
+      "description": "Re-reported as committed",
+      "date": "2026-09-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
+    },
+    {
+      "description": "Laid on the table",
+      "date": "2026-09-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:47:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -177,6 +199,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Dan Frankel\"}",
       "organization_id": null
+    },
+    {
+      "name": "Robert Merski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Merski\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -244,7 +274,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:14:22Z",
+    "logs_latest_update": "2026-10-24T09:47:47Z",
     "text_extraction_latest_update": "2026-07-22T01:08:55.114024Z"
   }
 }
