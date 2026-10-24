@@ -66,5 +66,7 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:pa"
   },
-  "_processing": {}
+  "_processing": {
+    "text_extraction_latest_update": "2026-10-24T10:00:29.568214Z"
+  }
 }
