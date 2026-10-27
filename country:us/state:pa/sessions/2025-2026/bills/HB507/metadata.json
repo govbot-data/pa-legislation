@@ -144,6 +144,18 @@
       "_processing": {
         "log_file_created": "2026-10-24T09:47:46Z"
       }
+    },
+    {
+      "description": "Referred to Agriculture & Rural Affairs",
+      "date": "2026-10-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-27T10:49:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -152,7 +164,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Liz Hanbidge\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Liz Hanbidge\"}",
       "organization_id": null
     },
     {
@@ -160,7 +172,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Carol Hill-Evans\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Carol Hill-Evans\"}",
       "organization_id": null
     },
     {
@@ -168,7 +180,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Jose Giral\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jose Giral\"}",
       "organization_id": null
     },
     {
@@ -176,7 +188,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Chris Pielli\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Chris Pielli\"}",
       "organization_id": null
     },
     {
@@ -184,7 +196,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Kristine Howard\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kristine Howard\"}",
       "organization_id": null
     },
     {
@@ -192,7 +204,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Joe Ciresi\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joe Ciresi\"}",
       "organization_id": null
     },
     {
@@ -200,7 +212,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Benjamin Sanchez\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Benjamin Sanchez\"}",
       "organization_id": null
     },
     {
@@ -208,7 +220,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Melissa Shusterman\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melissa Shusterman\"}",
       "organization_id": null
     },
     {
@@ -216,7 +228,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Robert Freeman\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Robert Freeman\"}",
       "organization_id": null
     },
     {
@@ -224,7 +236,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Johanny Cepeda-Freytiz\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Johanny Cepeda-Freytiz\"}",
       "organization_id": null
     },
     {
@@ -232,7 +244,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Jennifer O'Mara\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jennifer O'Mara\"}",
       "organization_id": null
     },
     {
@@ -240,7 +252,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Justin Fleming\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Justin Fleming\"}",
       "organization_id": null
     },
     {
@@ -248,7 +260,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Joe Webster\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joe Webster\"}",
       "organization_id": null
     },
     {
@@ -256,7 +268,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Melissa Cerrato\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melissa Cerrato\"}",
       "organization_id": null
     },
     {
@@ -264,7 +276,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"G. Roni Green\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"G. Roni Green\"}",
       "organization_id": null
     },
     {
@@ -272,7 +284,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Greg Scott\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Greg Scott\"}",
       "organization_id": null
     },
     {
@@ -280,7 +292,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Paul Takac\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Paul Takac\"}",
       "organization_id": null
     },
     {
@@ -288,7 +300,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Tina Davis\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tina Davis\"}",
       "organization_id": null
     },
     {
@@ -296,7 +308,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Nikki Rivera\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nikki Rivera\"}",
       "organization_id": null
     },
     {
@@ -304,7 +316,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Tarik Khan\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tarik Khan\"}",
       "organization_id": null
     },
     {
@@ -312,7 +324,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Dave Madsen\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dave Madsen\"}",
       "organization_id": null
     }
   ],
@@ -401,7 +413,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-24T09:47:46Z",
+    "logs_latest_update": "2026-10-27T10:49:18Z",
     "text_extraction_latest_update": "2026-10-24T09:50:49.057232Z"
   }
 }

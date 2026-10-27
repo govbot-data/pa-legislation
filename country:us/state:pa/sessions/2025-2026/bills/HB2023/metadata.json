@@ -119,6 +119,18 @@
       "_processing": {
         "log_file_created": "2026-10-24T09:47:46Z"
       }
+    },
+    {
+      "description": "Referred to Urban Affairs & Housing",
+      "date": "2026-10-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-27T10:49:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -127,7 +139,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Greg Scott\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Greg Scott\"}",
       "organization_id": null
     },
     {
@@ -135,7 +147,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Carol Hill-Evans\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Carol Hill-Evans\"}",
       "organization_id": null
     },
     {
@@ -143,7 +155,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Benjamin Sanchez\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Benjamin Sanchez\"}",
       "organization_id": null
     },
     {
@@ -151,7 +163,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Johanny Cepeda-Freytiz\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Johanny Cepeda-Freytiz\"}",
       "organization_id": null
     },
     {
@@ -159,7 +171,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Elizabeth Fiedler\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Elizabeth Fiedler\"}",
       "organization_id": null
     },
     {
@@ -167,7 +179,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"La'Tasha Mayes\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"La'Tasha Mayes\"}",
       "organization_id": null
     },
     {
@@ -175,7 +187,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Dan Williams\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dan Williams\"}",
       "organization_id": null
     },
     {
@@ -183,7 +195,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Maureen Madden\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Maureen Madden\"}",
       "organization_id": null
     },
     {
@@ -191,7 +203,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Mark Gillen\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mark Gillen\"}",
       "organization_id": null
     },
     {
@@ -199,7 +211,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Ben Waxman\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ben Waxman\"}",
       "organization_id": null
     },
     {
@@ -207,7 +219,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Ana Tiburcio\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ana Tiburcio\"}",
       "organization_id": null
     },
     {
@@ -215,7 +227,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Carol Kazeem\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Carol Kazeem\"}",
       "organization_id": null
     }
   ],
@@ -260,19 +272,7 @@
       "classification": ""
     }
   ],
-  "documents": [
-    {
-      "note": "House Fiscal Note",
-      "links": [
-        {
-          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/HB2023P4025.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "documents": [],
   "citations": [],
   "sources": [
     {
@@ -308,7 +308,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-24T09:47:46Z",
+    "logs_latest_update": "2026-10-27T10:49:18Z",
     "text_extraction_latest_update": "2026-10-24T10:05:42.548310Z"
   }
 }
