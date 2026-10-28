@@ -119,18 +119,6 @@
       "_processing": {
         "log_file_created": "2026-10-24T09:47:46Z"
       }
-    },
-    {
-      "description": "Referred to Labor & Industry",
-      "date": "2026-10-26T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-10-27T10:49:18Z"
-      }
     }
   ],
   "sponsorships": [
@@ -139,7 +127,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Morgan Cephas\"}",
+      "person_id": "~{\"name\": \"Morgan Cephas\"}",
       "organization_id": null
     },
     {
@@ -147,7 +135,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Carol Hill-Evans\"}",
+      "person_id": "~{\"name\": \"Carol Hill-Evans\"}",
       "organization_id": null
     },
     {
@@ -155,7 +143,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Malcolm Kenyatta\"}",
+      "person_id": "~{\"name\": \"Malcolm Kenyatta\"}",
       "organization_id": null
     },
     {
@@ -163,7 +151,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Liz Hanbidge\"}",
+      "person_id": "~{\"name\": \"Liz Hanbidge\"}",
       "organization_id": null
     },
     {
@@ -171,7 +159,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Benjamin Sanchez\"}",
+      "person_id": "~{\"name\": \"Benjamin Sanchez\"}",
       "organization_id": null
     },
     {
@@ -179,7 +167,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jose Giral\"}",
+      "person_id": "~{\"name\": \"Jose Giral\"}",
       "organization_id": null
     },
     {
@@ -187,7 +175,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Danilo Burgos\"}",
+      "person_id": "~{\"name\": \"Danilo Burgos\"}",
       "organization_id": null
     },
     {
@@ -195,7 +183,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Johanny Cepeda-Freytiz\"}",
+      "person_id": "~{\"name\": \"Johanny Cepeda-Freytiz\"}",
       "organization_id": null
     },
     {
@@ -203,7 +191,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melissa Shusterman\"}",
+      "person_id": "~{\"name\": \"Melissa Shusterman\"}",
       "organization_id": null
     },
     {
@@ -211,7 +199,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Emily Kinkead\"}",
+      "person_id": "~{\"name\": \"Emily Kinkead\"}",
       "organization_id": null
     },
     {
@@ -219,7 +207,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Steven Malagari\"}",
+      "person_id": "~{\"name\": \"Steven Malagari\"}",
       "organization_id": null
     },
     {
@@ -227,7 +215,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dan Frankel\"}",
+      "person_id": "~{\"name\": \"Dan Frankel\"}",
       "organization_id": null
     },
     {
@@ -235,7 +223,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Justin Fleming\"}",
+      "person_id": "~{\"name\": \"Justin Fleming\"}",
       "organization_id": null
     },
     {
@@ -243,7 +231,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jennifer O'Mara\"}",
+      "person_id": "~{\"name\": \"Jennifer O'Mara\"}",
       "organization_id": null
     },
     {
@@ -251,7 +239,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel Deasy\"}",
+      "person_id": "~{\"name\": \"Daniel Deasy\"}",
       "organization_id": null
     },
     {
@@ -259,7 +247,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Elizabeth Fiedler\"}",
+      "person_id": "~{\"name\": \"Elizabeth Fiedler\"}",
       "organization_id": null
     },
     {
@@ -267,7 +255,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"G. Roni Green\"}",
+      "person_id": "~{\"name\": \"G. Roni Green\"}",
       "organization_id": null
     },
     {
@@ -275,7 +263,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Marylouise Isaacson\"}",
+      "person_id": "~{\"name\": \"Marylouise Isaacson\"}",
       "organization_id": null
     },
     {
@@ -283,7 +271,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Heather Boyd\"}",
+      "person_id": "~{\"name\": \"Heather Boyd\"}",
       "organization_id": null
     },
     {
@@ -291,7 +279,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ana Tiburcio\"}",
+      "person_id": "~{\"name\": \"Ana Tiburcio\"}",
       "organization_id": null
     },
     {
@@ -299,7 +287,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joseph Hohenstein\"}",
+      "person_id": "~{\"name\": \"Joseph Hohenstein\"}",
       "organization_id": null
     },
     {
@@ -307,7 +295,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Carol Kazeem\"}",
+      "person_id": "~{\"name\": \"Carol Kazeem\"}",
       "organization_id": null
     },
     {
@@ -315,7 +303,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dave Madsen\"}",
+      "person_id": "~{\"name\": \"Dave Madsen\"}",
       "organization_id": null
     },
     {
@@ -323,7 +311,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tarik Khan\"}",
+      "person_id": "~{\"name\": \"Tarik Khan\"}",
       "organization_id": null
     }
   ],

@@ -272,28 +272,6 @@
       "_processing": {
         "log_file_created": "2026-10-24T09:47:46Z"
       }
-    },
-    {
-      "description": "Approved by the Governor",
-      "date": "2026-10-26T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "executive-signature"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-10-27T10:49:18Z"
-      }
-    },
-    {
-      "description": "Act No. 117 of 2026",
-      "date": "2026-10-26T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-10-27T10:49:18Z"
-      }
     }
   ],
   "sponsorships": [
@@ -302,7 +280,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Devlin Robinson\"}",
+      "person_id": "~{\"name\": \"Devlin Robinson\"}",
       "organization_id": null
     },
     {
@@ -310,7 +288,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Vincent Hughes\"}",
+      "person_id": "~{\"name\": \"Vincent Hughes\"}",
       "organization_id": null
     },
     {
@@ -318,7 +296,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Steven Santarsiero\"}",
+      "person_id": "~{\"name\": \"Steven Santarsiero\"}",
       "organization_id": null
     },
     {
@@ -326,7 +304,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Tracy Pennycuick\"}",
+      "person_id": "~{\"name\": \"Tracy Pennycuick\"}",
       "organization_id": null
     },
     {
@@ -334,7 +312,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Art Haywood\"}",
+      "person_id": "~{\"name\": \"Art Haywood\"}",
       "organization_id": null
     },
     {
@@ -342,7 +320,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Maria Collett\"}",
+      "person_id": "~{\"name\": \"Maria Collett\"}",
       "organization_id": null
     },
     {
@@ -350,7 +328,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Judy Ward\"}",
+      "person_id": "~{\"name\": \"Judy Ward\"}",
       "organization_id": null
     },
     {
@@ -358,7 +336,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David Argall\"}",
+      "person_id": "~{\"name\": \"David Argall\"}",
       "organization_id": null
     },
     {
@@ -366,7 +344,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John Kane\"}",
+      "person_id": "~{\"name\": \"John Kane\"}",
       "organization_id": null
     },
     {
@@ -374,7 +352,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Wayne Fontana\"}",
+      "person_id": "~{\"name\": \"Wayne Fontana\"}",
       "organization_id": null
     },
     {
@@ -382,7 +360,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Jay Costa\"}",
+      "person_id": "~{\"name\": \"Jay Costa\"}",
       "organization_id": null
     },
     {
@@ -390,7 +368,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Patrick Stefano\"}",
+      "person_id": "~{\"name\": \"Patrick Stefano\"}",
       "organization_id": null
     },
     {
@@ -398,7 +376,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rosemary Brown\"}",
+      "person_id": "~{\"name\": \"Rosemary Brown\"}",
       "organization_id": null
     },
     {
@@ -406,7 +384,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Elder Vogel\"}",
+      "person_id": "~{\"name\": \"Elder Vogel\"}",
       "organization_id": null
     },
     {
@@ -414,7 +392,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"James Malone\"}",
+      "person_id": "~{\"name\": \"James Malone\"}",
       "organization_id": null
     },
     {
@@ -422,7 +400,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nick Pisciottano\"}",
+      "person_id": "~{\"name\": \"Nick Pisciottano\"}",
       "organization_id": null
     },
     {
@@ -430,7 +408,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marty Flynn\"}",
+      "person_id": "~{\"name\": \"Marty Flynn\"}",
       "organization_id": null
     },
     {
@@ -438,7 +416,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Lisa Boscola\"}",
+      "person_id": "~{\"name\": \"Lisa Boscola\"}",
       "organization_id": null
     },
     {
@@ -446,7 +424,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Wayne Langerholc\"}",
+      "person_id": "~{\"name\": \"Wayne Langerholc\"}",
       "organization_id": null
     },
     {
@@ -454,7 +432,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Timothy Kearney\"}",
+      "person_id": "~{\"name\": \"Timothy Kearney\"}",
       "organization_id": null
     },
     {
@@ -462,7 +440,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Doug Mastriano\"}",
+      "person_id": "~{\"name\": \"Doug Mastriano\"}",
       "organization_id": null
     },
     {
@@ -470,7 +448,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cris Dush\"}",
+      "person_id": "~{\"name\": \"Cris Dush\"}",
       "organization_id": null
     }
   ],
@@ -572,7 +550,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "House Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.palegis.us/WU01/LI/BI/FN/2025/0/SB1014P1697.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {

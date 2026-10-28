@@ -120,18 +120,6 @@
       "_processing": {
         "log_file_created": "2026-10-24T09:47:47Z"
       }
-    },
-    {
-      "description": "Referred to Transportation",
-      "date": "2026-10-26T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-10-27T10:49:18Z"
-      }
     }
   ],
   "sponsorships": [
@@ -140,7 +128,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Emily Kinkead\"}",
+      "person_id": "~{\"name\": \"Emily Kinkead\"}",
       "organization_id": null
     },
     {
@@ -148,7 +136,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Aerion Abney\"}",
+      "person_id": "~{\"name\": \"Aerion Abney\"}",
       "organization_id": null
     },
     {
@@ -156,7 +144,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joe Mcandrew\"}",
+      "person_id": "~{\"name\": \"Joe Mcandrew\"}",
       "organization_id": null
     },
     {
@@ -164,7 +152,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Benjamin Sanchez\"}",
+      "person_id": "~{\"name\": \"Benjamin Sanchez\"}",
       "organization_id": null
     },
     {
@@ -172,7 +160,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Carol Hill-Evans\"}",
+      "person_id": "~{\"name\": \"Carol Hill-Evans\"}",
       "organization_id": null
     },
     {
@@ -180,7 +168,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joseph Hohenstein\"}",
+      "person_id": "~{\"name\": \"Joseph Hohenstein\"}",
       "organization_id": null
     },
     {
@@ -188,7 +176,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"G. Roni Green\"}",
+      "person_id": "~{\"name\": \"G. Roni Green\"}",
       "organization_id": null
     },
     {
@@ -196,7 +184,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Keith Harris\"}",
+      "person_id": "~{\"name\": \"Keith Harris\"}",
       "organization_id": null
     },
     {
@@ -204,7 +192,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Anthony Bellmon\"}",
+      "person_id": "~{\"name\": \"Anthony Bellmon\"}",
       "organization_id": null
     },
     {
@@ -212,7 +200,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ana Tiburcio\"}",
+      "person_id": "~{\"name\": \"Ana Tiburcio\"}",
       "organization_id": null
     },
     {
@@ -220,7 +208,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jacklyn Rusnock\"}",
+      "person_id": "~{\"name\": \"Jacklyn Rusnock\"}",
       "organization_id": null
     }
   ],
