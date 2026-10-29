@@ -120,18 +120,6 @@
       "_processing": {
         "log_file_created": "2026-10-24T09:47:47Z"
       }
-    },
-    {
-      "description": "Referred to Communications & Technology",
-      "date": "2026-10-27T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-10-28T11:32:43Z"
-      }
     }
   ],
   "sponsorships": [
@@ -140,7 +128,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Christopher Rabb\"}",
+      "person_id": "~{\"name\": \"Christopher Rabb\"}",
       "organization_id": null
     },
     {
@@ -148,7 +136,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melissa Shusterman\"}",
+      "person_id": "~{\"name\": \"Melissa Shusterman\"}",
       "organization_id": null
     },
     {
@@ -156,7 +144,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ben Waxman\"}",
+      "person_id": "~{\"name\": \"Ben Waxman\"}",
       "organization_id": null
     },
     {
@@ -164,7 +152,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tarik Khan\"}",
+      "person_id": "~{\"name\": \"Tarik Khan\"}",
       "organization_id": null
     },
     {
@@ -172,7 +160,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nikki Rivera\"}",
+      "person_id": "~{\"name\": \"Nikki Rivera\"}",
       "organization_id": null
     },
     {
@@ -180,7 +168,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Robert Freeman\"}",
+      "person_id": "~{\"name\": \"Robert Freeman\"}",
       "organization_id": null
     },
     {
@@ -188,7 +176,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Keith Harris\"}",
+      "person_id": "~{\"name\": \"Keith Harris\"}",
       "organization_id": null
     },
     {
@@ -196,7 +184,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kristine Howard\"}",
+      "person_id": "~{\"name\": \"Kristine Howard\"}",
       "organization_id": null
     },
     {
@@ -204,7 +192,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Benjamin Sanchez\"}",
+      "person_id": "~{\"name\": \"Benjamin Sanchez\"}",
       "organization_id": null
     },
     {
@@ -212,7 +200,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ismail Smith-Wade-El\"}",
+      "person_id": "~{\"name\": \"Ismail Smith-Wade-El\"}",
       "organization_id": null
     },
     {
@@ -220,7 +208,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Perry Warren\"}",
+      "person_id": "~{\"name\": \"Perry Warren\"}",
       "organization_id": null
     },
     {
@@ -228,7 +216,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joe Ciresi\"}",
+      "person_id": "~{\"name\": \"Joe Ciresi\"}",
       "organization_id": null
     },
     {
@@ -236,7 +224,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Paul Takac\"}",
+      "person_id": "~{\"name\": \"Paul Takac\"}",
       "organization_id": null
     },
     {
@@ -244,7 +232,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dave Madsen\"}",
+      "person_id": "~{\"name\": \"Dave Madsen\"}",
       "organization_id": null
     },
     {
@@ -252,7 +240,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Scott Conklin\"}",
+      "person_id": "~{\"name\": \"Scott Conklin\"}",
       "organization_id": null
     },
     {
@@ -260,7 +248,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Elizabeth Fiedler\"}",
+      "person_id": "~{\"name\": \"Elizabeth Fiedler\"}",
       "organization_id": null
     }
   ],

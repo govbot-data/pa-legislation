@@ -14,14 +14,27 @@
       "identifier": "ocd-bill-pa-2025_2026-hb2519"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Referred to Judiciary",
+      "date": "2026-10-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-29T11:54:18Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Donna Scheuren",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Donna Scheuren\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Donna Scheuren\"}",
       "organization_id": null
     },
     {
@@ -29,7 +42,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Andrew Kuzma\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Andrew Kuzma\"}",
       "organization_id": null
     },
     {
@@ -37,7 +50,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Shelby Labs\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Shelby Labs\"}",
       "organization_id": null
     },
     {
@@ -45,12 +58,32 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Mark Gillen\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mark Gillen\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Printer's No. PN4103",
+      "links": [
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB2519/PN4103",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/HB2519/PN4103",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.palegis.us/legislation/bills/text/DOC/2025/0/HB2519/PN4103",
+          "media_type": "application/msword"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -67,6 +100,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "text_extraction_latest_update": "2026-10-28T17:32:34.843338Z"
+    "text_extraction_latest_update": "2026-10-28T17:32:34.843338Z",
+    "logs_latest_update": "2026-10-29T11:54:18Z"
   }
 }

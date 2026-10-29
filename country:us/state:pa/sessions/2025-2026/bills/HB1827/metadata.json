@@ -146,18 +146,6 @@
       "_processing": {
         "log_file_created": "2026-10-24T09:47:46Z"
       }
-    },
-    {
-      "description": "Referred to Banking & Insurance",
-      "date": "2026-10-27T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-10-28T11:32:43Z"
-      }
     }
   ],
   "sponsorships": [
@@ -166,7 +154,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melissa Shusterman\"}",
+      "person_id": "~{\"name\": \"Melissa Shusterman\"}",
       "organization_id": null
     },
     {
@@ -174,7 +162,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Liz Hanbidge\"}",
+      "person_id": "~{\"name\": \"Liz Hanbidge\"}",
       "organization_id": null
     },
     {
@@ -182,7 +170,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Carol Hill-Evans\"}",
+      "person_id": "~{\"name\": \"Carol Hill-Evans\"}",
       "organization_id": null
     },
     {
@@ -190,7 +178,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nancy Guenst\"}",
+      "person_id": "~{\"name\": \"Nancy Guenst\"}",
       "organization_id": null
     },
     {
@@ -198,7 +186,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Benjamin Sanchez\"}",
+      "person_id": "~{\"name\": \"Benjamin Sanchez\"}",
       "organization_id": null
     },
     {
@@ -206,7 +194,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kristine Howard\"}",
+      "person_id": "~{\"name\": \"Kristine Howard\"}",
       "organization_id": null
     },
     {
@@ -214,7 +202,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nikki Rivera\"}",
+      "person_id": "~{\"name\": \"Nikki Rivera\"}",
       "organization_id": null
     },
     {
@@ -222,7 +210,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pat Gallagher\"}",
+      "person_id": "~{\"name\": \"Pat Gallagher\"}",
       "organization_id": null
     },
     {
@@ -230,7 +218,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Darisha K. Parker\"}",
+      "person_id": "~{\"name\": \"Darisha K. Parker\"}",
       "organization_id": null
     },
     {
@@ -238,7 +226,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Marylouise Isaacson\"}",
+      "person_id": "~{\"name\": \"Marylouise Isaacson\"}",
       "organization_id": null
     },
     {
@@ -246,7 +234,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Heather Boyd\"}",
+      "person_id": "~{\"name\": \"Heather Boyd\"}",
       "organization_id": null
     },
     {
@@ -254,7 +242,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ana Tiburcio\"}",
+      "person_id": "~{\"name\": \"Ana Tiburcio\"}",
       "organization_id": null
     },
     {
@@ -262,7 +250,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joseph Hohenstein\"}",
+      "person_id": "~{\"name\": \"Joseph Hohenstein\"}",
       "organization_id": null
     },
     {
@@ -270,7 +258,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dave Madsen\"}",
+      "person_id": "~{\"name\": \"Dave Madsen\"}",
       "organization_id": null
     }
   ],

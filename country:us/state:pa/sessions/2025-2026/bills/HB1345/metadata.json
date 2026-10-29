@@ -120,6 +120,18 @@
       "_processing": {
         "log_file_created": "2026-10-24T09:47:47Z"
       }
+    },
+    {
+      "description": "Referred to Health & Human Services",
+      "date": "2026-10-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-29T11:54:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -128,7 +140,7 @@
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Morgan Cephas\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Morgan Cephas\"}",
       "organization_id": null
     },
     {
@@ -136,7 +148,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Liz Hanbidge\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Liz Hanbidge\"}",
       "organization_id": null
     },
     {
@@ -144,7 +156,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Nancy Guenst\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nancy Guenst\"}",
       "organization_id": null
     },
     {
@@ -152,7 +164,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Chris Pielli\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Chris Pielli\"}",
       "organization_id": null
     },
     {
@@ -160,7 +172,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Danielle Friel Otten\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Danielle Friel Otten\"}",
       "organization_id": null
     },
     {
@@ -168,7 +180,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Tarah Probst\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tarah Probst\"}",
       "organization_id": null
     },
     {
@@ -176,7 +188,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Ben Waxman\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ben Waxman\"}",
       "organization_id": null
     },
     {
@@ -184,7 +196,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Carol Hill-Evans\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Carol Hill-Evans\"}",
       "organization_id": null
     },
     {
@@ -192,7 +204,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Joseph Hohenstein\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joseph Hohenstein\"}",
       "organization_id": null
     },
     {
@@ -200,7 +212,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Malcolm Kenyatta\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Malcolm Kenyatta\"}",
       "organization_id": null
     },
     {
@@ -208,7 +220,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Christopher Rabb\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Christopher Rabb\"}",
       "organization_id": null
     },
     {
@@ -216,7 +228,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Dan Miller\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dan Miller\"}",
       "organization_id": null
     },
     {
@@ -224,7 +236,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Benjamin Sanchez\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Benjamin Sanchez\"}",
       "organization_id": null
     },
     {
@@ -232,7 +244,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Dan Frankel\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dan Frankel\"}",
       "organization_id": null
     },
     {
@@ -240,7 +252,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Melissa Shusterman\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melissa Shusterman\"}",
       "organization_id": null
     },
     {
@@ -248,7 +260,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Johanny Cepeda-Freytiz\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Johanny Cepeda-Freytiz\"}",
       "organization_id": null
     },
     {
@@ -256,7 +268,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Nikki Rivera\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nikki Rivera\"}",
       "organization_id": null
     },
     {
@@ -264,7 +276,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Jennifer O'Mara\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jennifer O'Mara\"}",
       "organization_id": null
     },
     {
@@ -272,7 +284,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Maureen Madden\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Maureen Madden\"}",
       "organization_id": null
     },
     {
@@ -280,7 +292,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Mary Jo Daley\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mary Jo Daley\"}",
       "organization_id": null
     },
     {
@@ -288,7 +300,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"G. Roni Green\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"G. Roni Green\"}",
       "organization_id": null
     },
     {
@@ -296,7 +308,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Gina Curry\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gina Curry\"}",
       "organization_id": null
     },
     {
@@ -304,7 +316,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Melissa Cerrato\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melissa Cerrato\"}",
       "organization_id": null
     },
     {
@@ -312,7 +324,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Marylouise Isaacson\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Marylouise Isaacson\"}",
       "organization_id": null
     },
     {
@@ -320,7 +332,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Heather Boyd\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Heather Boyd\"}",
       "organization_id": null
     },
     {
@@ -328,7 +340,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Ana Tiburcio\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ana Tiburcio\"}",
       "organization_id": null
     },
     {
@@ -336,7 +348,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Emily Kinkead\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Emily Kinkead\"}",
       "organization_id": null
     },
     {
@@ -344,7 +356,7 @@
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Dave Madsen\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dave Madsen\"}",
       "organization_id": null
     }
   ],
@@ -433,7 +445,7 @@
     "division_id": "ocd-division/country:us/state:pa"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-27T10:49:18Z",
+    "logs_latest_update": "2026-10-29T11:54:18Z",
     "text_extraction_latest_update": "2026-10-27T10:51:00.260274Z"
   }
 }
